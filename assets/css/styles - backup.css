@@ -7,20 +7,20 @@
  * Website: https://themes.3rdwavemedia.com/
 */
 
-/* colors
+/*colors
 $color1: #bfb5afff;
 $color2: #ece2d0ff;
 $color3: #d5b9b2ff;
 $color4: #a2708aff;
 $color5: #582c4dff;
-
-
 */
+
+
 
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #582c4d;
-  background: #ece2d0;
+  background: #DAE3E7;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
